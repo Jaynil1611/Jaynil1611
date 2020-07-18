@@ -1,6 +1,6 @@
 ![Mast](https://github.com/Jaynil1611/Jaynil1611/raw/master/Github_Cover.jpeg)
 
-## Hello there 👋
+## Hello there! 👋
 
 📌 I am **Jaynil Gaglani**, pursuing `B.Tech in I.T. Engineering` from *Sardar Patel Institute of Technology, Mumbai*. I am interested in learning new technologies and build exciting real-world projects.
 
