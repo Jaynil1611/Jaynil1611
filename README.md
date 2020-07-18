@@ -1,4 +1,4 @@
-![Mast](https://github.com/Jaynil1611/Jaynil1611/raw/master/GitHub_Cover.png)
+![Mast](https://github.com/Jaynil1611/Jaynil1611/raw/master/Github_Cover.jpeg)
 
 ## Hello there 👋
 
