@@ -32,8 +32,8 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
-[![Google-Play-Store-App-Launch-Study](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=Google-Play-Store-App-Launch-Study&&theme=tokyonight )](https://github.com/Jaynil1611/Google-Play-Store-App-Launch-Study)
-
-
 [![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight)](https://github.com/Jaynil1611/ADS-PRO)
+
+
+[![Google-Play-Store-App-Launch-Study](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=Google-Play-Store-App-Launch-Study&&theme=tokyonight )](https://github.com/Jaynil1611/Google-Play-Store-App-Launch-Study)
 [![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight)](https://github.com/Jaynil1611/AuctionPro)
