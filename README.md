@@ -6,6 +6,7 @@
 
 📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. **Self-learning ability** and `passion for my work` are the key factors towards my success.
 
+
 📌 My technical skills include :
 
  - 🎯 *Languages* (**`C, Java, Python, R`**)
@@ -29,7 +30,7 @@
 [<img src="https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/>](https://leetcode.com/jaynil1611/)
 <br/><br/><br/>
 
-![Jaynil's github stats](https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight )
-<br/><br/>
-[![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight )](https://github.com/Jaynil1611/AuctionPro)
-[![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight )](https://github.com/Jaynil1611/ADS-PRO)
+
+<a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
+[![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight)](https://github.com/Jaynil1611/ADS-PRO)
+[![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight)](https://github.com/Jaynil1611/AuctionPro)
