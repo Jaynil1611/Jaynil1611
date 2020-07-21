@@ -28,7 +28,8 @@
 [<img src="https://img.shields.io/badge/medium-%23737373.svg?&style=for-the-badge&logo=medium&logoColor=black"/>](https://medium.com/@g.jaynil2401)
 [<img src="https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/>](https://leetcode.com/jaynil1611/)
 <br/><br/><br/>
-![Jaynil's github stats](https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Jaynil's github stats](https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight )
 <br/><br/>
-[![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Jaynil1611/AuctionPro)
-[![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Jaynil1611/ADS-PRO)
+[![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight )](https://github.com/Jaynil1611/AuctionPro)
+[![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight )](https://github.com/Jaynil1611/ADS-PRO)
