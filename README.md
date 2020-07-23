@@ -9,7 +9,7 @@
 
 📌 My technical skills include :
 
- - 🎯 *Languages* (**`C, Java, Python, R`**)<a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
+ - 🎯 *Languages* (**`C, Java, Python, R`**)
 
  - 🎯 *Front-End Development* (**`HTML, CSS, BootStrap, JavaScript, React, Angular`**)
 
@@ -30,6 +30,9 @@
 [<img src="https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/>](https://leetcode.com/jaynil1611/)
 <br/><br/><br/>
 
+
+<a href="https://github.com/Jaynil1611"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&theme=tokyonight&hide_langs_below=1" alt="Top Languages"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
 
 [![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight)](https://github.com/Jaynil1611/ADS-PRO)
 [![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight)](https://github.com/Jaynil1611/AuctionPro)
