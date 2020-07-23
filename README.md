@@ -9,13 +9,13 @@
 
 📌 My technical skills include :
 
- - 👉 *Languages* (**`C, Java, Python, R`**)<a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
+ - 🎯 *Languages* (**`C, Java, Python, R`**)<a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
 
- - 👉 *Front-End Development* (**`HTML, CSS, BootStrap, JavaScript, React, Angular`**)
+ - 🎯 *Front-End Development* (**`HTML, CSS, BootStrap, JavaScript, React, Angular`**)
 
- - 👉 *Backend Development and Database Management* (**`SQL, Firebase, Micronaut`**)
+ - 🎯 *Backend Development and Database Management* (**`SQL, Firebase, Micronaut`**)
 
- - 👉 *Machine Learning, NLP and Deep Learning*
+ - 🎯 *Machine Learning, NLP and Deep Learning*
 <br/>
 
 📌 Contact Me :
