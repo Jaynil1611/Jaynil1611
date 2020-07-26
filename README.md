@@ -1,4 +1,5 @@
-![Mast](https://github.com/Jaynil1611/Jaynil1611/raw/master/Github_Cover.jpeg)
+
+<p align="center"><img width="700" height="400" src="https://media.giphy.com/media/dzI7bXMESc0PffpPZE/giphy.gif" alt="Intro" /></p>
 
 ## Hello there! 👋🏻
 
