@@ -10,13 +10,13 @@
 
 📌 My technical skills include :
 
- - 🎯 *Languages* (**`C, Java, Python, R`**)
+ - 💻 *Languages* (**`C, Java, Python, R`**)
 
- - 🎯 *Front-End Development* (**`HTML, CSS, BootStrap, JavaScript, React, Angular`**)
+ - 💻 *Front-End Development* (**`HTML, CSS, BootStrap, JavaScript, React, Angular`**)
 
- - 🎯 *Backend Development and Database Management* (**`SQL, Firebase, Micronaut`**)
+ - 💻 *Backend Development and Database Management* (**`SQL, Firebase, Micronaut`**)
 
- - 🎯 *Machine Learning, NLP and Deep Learning*
+ - 💻 *Machine Learning, NLP and Deep Learning*
 <br/>
 
 📌 Contact Me :
