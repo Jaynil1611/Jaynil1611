@@ -1,5 +1,5 @@
 
-<p align="center"><img width="700" height="300" src="https://media.giphy.com/media/dzI7bXMESc0PffpPZE/giphy.gif" alt="Intro" /></p>
+<p align="center"><img width="700" height="270" src="https://media.giphy.com/media/dzI7bXMESc0PffpPZE/giphy.gif" alt="Intro" /></p>
 
 ## Hello there! 👋🏻
 
