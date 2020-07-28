@@ -32,8 +32,7 @@
 <br/><br/><br/>
 
 
-
 <a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
-<a href="https://github.com/Jaynil1611"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&theme=tokyonight&hide=Jupyter Notebook,PHP" alt="Top Languages"/></a>
+<a href="https://github.com/Jaynil1611"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&theme=tokyonight&layout=compact" alt="Top Languages"/></a>
 [![ADS-PRO](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight)](https://github.com/Jaynil1611/ADS-PRO)
 [![AuctionPro](https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight)](https://github.com/Jaynil1611/AuctionPro)
