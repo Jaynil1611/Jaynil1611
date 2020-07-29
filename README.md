@@ -33,6 +33,6 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&amp;show_icons=true&amp;theme=tokyonight" alt="Jaynil's github stats" /></a>
-<a href="https://github.com/Jaynil1611"><img align="center" height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&theme=tokyonight&layout=compact" alt="Top Languages"/></a>
+<a href="https://github.com/Jaynil1611"><img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&theme=tokyonight&layout=compact" alt="Top Languages"/></a>
 <a href="https://github.com/Jaynil1611/ADS-PRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&&theme=tokyonight" alt="ADS-PRO"/></a>
 <a href="https://github.com/Jaynil1611/AuctionPro"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&&theme=tokyonight" alt="AuctionPro"/></a>
