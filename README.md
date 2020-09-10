@@ -30,7 +30,7 @@
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/people/Jaynil-Gaglani/100009191846557)
 [<img align="center" height="60" src="https://img.icons8.com/ios-filled/150/000000/quora.png"/>](https://www.quora.com/profile/Jaynil-Gaglani)
 [<img align="center" height="40" src="https://img.icons8.com/ios-filled/150/000000/medium-monogram.png"/>](https://medium.com/@g.jaynil2401)
-[<img align="center" height="35" src="https://bit.ly/jaynil-leetcode"/>](https://leetcode.com/jaynil1611/)
+[<img align="center" height="35" src="https://bit.ly/jaynil_leetcode_logo"/>](https://leetcode.com/jaynil1611/)
 [<img align="center" height="40" src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>](https://www.hackerrank.com/g_jaynil2401)
 <br/><br/><br/>
 
