@@ -23,7 +23,7 @@
 📌 Contact Me :
 <!--https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"-->
 
-[<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](https://jaynil1611.github.io/)
+[<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](https://bit.ly/jaynil-profile)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/jaynilgaglani/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/JAYNIL1611)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/jaynil_gaglani/)
