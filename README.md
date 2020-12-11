@@ -20,6 +20,10 @@
  - 💻 *Machine Learning, NLP and Deep Learning*
 <br/>
 
+
+📌 Here's a link to all my Projects: [View Demo](https://linktr.ee/jaynil_gaglani)
+
+
 📌 Contact Me :
 <!--https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"-->
 
