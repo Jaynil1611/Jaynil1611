@@ -21,7 +21,7 @@
 <br/>
 
 
-📌 Here's a link to all my [Projects](https://linktr.ee/jaynil_gaglani)
+📌 Here's a link to my [Portfolio](https://bit.ly/jaynil-profile)
 
 
 📌 Contact Me :
