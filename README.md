@@ -38,6 +38,7 @@
 [<img align="center" height="40" src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>](https://www.hackerrank.com/g_jaynil2401)
 <br/><br/><br/>
 
+<p><img src="https://komarev.com/ghpvc/?username=Jaynil1611" alt="Jaynil's Profile Views"/><p>
 
 <a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Jaynil's github stats" /></a>
 <a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&layout=compact&theme=algolia" alt="Top Languages"/></a>
