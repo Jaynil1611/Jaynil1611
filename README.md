@@ -39,8 +39,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Jaynil1611&color=brightgreen)
 
-<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Jaynil's github stats" /></a>
-<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&layout=compact&langs_count=10&theme=algolia" alt="Top Languages"/></a>
-[![Jaynil's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaynil&layout=compact&theme=algolia)](https://wakatime.com/@jaynil)
+
+<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaynil1611&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Jaynil's github stats" /></a>
+<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&layout=compact&langs_count=6&theme=algolia&card_width=10" alt="Top Languages"/></a>
+<a href="https://wakatime.com/@jaynil"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jaynil&layout=compact&theme=algolia&custom_title=Jaynil's Wakatime Stats&card_width=6" 
+alt="Jaynil's Wakatime Stats"/></a>
 <!--<a href="https://github.com/Jaynil1611/ADS-PRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&theme=tokyonight" alt="ADS-PRO"/></a>
 <a href="https://github.com/Jaynil1611/AuctionPro"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&theme=tokyonight" alt="AuctionPro"/></a>-->
