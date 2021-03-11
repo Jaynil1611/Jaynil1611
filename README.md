@@ -33,7 +33,11 @@
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/jaynil_gaglani/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/people/Jaynil-Gaglani/100009191846557)
 [<img align="center" height="35" src="https://bit.ly/jaynil_leetcode_logo"/>](https://leetcode.com/jaynil1611/)
-
+<!--
+[<img align="center" height="40" src="https://img.icons8.com/windows/144/000000/quora.png"/>](https://www.quora.com/profile/Jaynil-Gaglani)
+[<img align="center" height="40" src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>](https://www.hackerrank.com/g_jaynil2401)
+[<img align="center" height="40" src="https://img.icons8.com/ios-filled/150/000000/medium-monogram.png"/>](https://medium.com/@g.jaynil2401)
+-->
 ![](https://komarev.com/ghpvc/?username=Jaynil1611&color=brightgreen)
 
 
@@ -45,7 +49,4 @@
 alt="Jaynil's Wakatime Stats"/></a>
 <!--<a href="https://github.com/Jaynil1611/ADS-PRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=ADS-PRO&theme=tokyonight" alt="ADS-PRO"/></a>
 <a href="https://github.com/Jaynil1611/AuctionPro"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaynil1611&repo=AuctionPro&theme=tokyonight" alt="AuctionPro"/></a>
-[<img align="center" height="40" src="https://img.icons8.com/windows/144/000000/quora.png"/>](https://www.quora.com/profile/Jaynil-Gaglani)
-[<img align="center" height="40" src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>](https://www.hackerrank.com/g_jaynil2401)
-[<img align="center" height="40" src="https://img.icons8.com/ios-filled/150/000000/medium-monogram.png"/>](https://medium.com/@g.jaynil2401)
 -->
