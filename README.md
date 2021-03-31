@@ -15,7 +15,7 @@
 
  - 💻 *Front-End Development* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/bootstrap.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/angularjs.png"/> 
 
- - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/postgreesql.png"/> <img align="center" height="30" src="https://micronaut.io/images/micronaut_mini_copy_tm.svg"/>
+ - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/postgreesql.png"/>
 
  - 💻 *Machine Learning, NLP and Deep Learning*
 <br/>
