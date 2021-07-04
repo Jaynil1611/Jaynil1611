@@ -29,9 +29,9 @@
 
 [<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](https://bit.ly/jaynil-profile)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/jaynilgaglani/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/JAYNIL1611)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/Jaynil_Gaglani)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/jaynil_gaglani/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/people/Jaynil-Gaglani/100009191846557)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/jaynilgaglan)
 [<img align="center" height="35" src="https://bit.ly/jaynil_leetcode_logo"/>](https://leetcode.com/jaynil1611/)
 <!--
 [<img align="center" height="40" src="https://img.icons8.com/windows/144/000000/quora.png"/>](https://www.quora.com/profile/Jaynil-Gaglani)
