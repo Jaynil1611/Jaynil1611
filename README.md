@@ -9,31 +9,35 @@
 
  📌 My interests are developing cutting-edge real-world projects and learning new technologies. Apart from coding, I love listening to *electronic music* and *playing football*.
 
-📌 My technical skills include :
+📌 Here's a link to my [Portfolio](https://bit.ly/jaynil-profile)
+
+📌 Reach out to me: 
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/jaynilgaglani/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/Jaynil_Gaglani)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/jaynil_gaglani/)
+[<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](https://bit.ly/jaynil-profile)
+
+<!--
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/jaynilgaglan)
+[<img align="center" height="40" src="https://img.icons8.com/windows/144/000000/quora.png"/>](https://www.quora.com/profile/Jaynil-Gaglani)
+[<img align="center" height="40" src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>](https://www.hackerrank.com/g_jaynil2401)
+[<img align="center" height="40" src="https://img.icons8.com/ios-filled/150/000000/medium-monogram.png"/>](https://medium.com/@g.jaynil2401)
+-->
+
+---
+
+🛠 &nbsp; Languages & Frameworks :
 
  <!-- - 💻 *Languages* (**`C, Java, Python, R`**)-->
- - 💻 *Languages*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> <img align="center" height="25" src="https://www.r-project.org/Rlogo.png" />
+ - 💻 *Languages*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> <img align="center" height="25" src="https://www.r-project.org/Rlogo.png" />
 
  - 💻 *Front-End Development* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/bootstrap.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/angularjs.png"/> 
 
  - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" /> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/postgreesql.png"/>
 
-📌 Here's a link to my [Portfolio](https://bit.ly/jaynil-profile)
+---
 
-📌 Contact Me :
-<!--https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"-->
-
-[<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](https://bit.ly/jaynil-profile)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/jaynilgaglani/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/Jaynil_Gaglani)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/jaynil_gaglani/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/jaynilgaglan)
-[<img align="center" height="35" src="https://bit.ly/jaynil_leetcode_logo"/>](https://leetcode.com/jaynil1611/)
-<!--
-[<img align="center" height="40" src="https://img.icons8.com/windows/144/000000/quora.png"/>](https://www.quora.com/profile/Jaynil-Gaglani)
-[<img align="center" height="40" src="https://img.icons8.com/windows/256/000000/hackerrank.png"/>](https://www.hackerrank.com/g_jaynil2401)
-[<img align="center" height="40" src="https://img.icons8.com/ios-filled/150/000000/medium-monogram.png"/>](https://medium.com/@g.jaynil2401)
--->
+<!-- Profile Visits -->
 ![](https://komarev.com/ghpvc/?username=Jaynil1611&color=brightgreen)
 
 
