@@ -1,12 +1,13 @@
 
 <p align="center"><img width="650" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM4NzI5YzgyZjI0YzU3YTAwZDBkOTAxZWNlOTM3OTkzMzE1MTkzYyZjdD1n/nzwGiC3Fb7M3MclN9h/giphy.gif" alt="Intro" /></p>
 
-## Hello there! 👋🏻
+## <h1>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="35"></h1>
 
-📌 I am **Jaynil Gaglani**, pursuing `B.Tech in I.T. Engineering` from *Sardar Patel Institute of Technology, Mumbai*. I am interested in learning new technologies and build exciting real-world projects.
+ 📌 I'm a `Frontend Engineer` [@Razorpay](https://github.com/razorpay) and a **B.Tech graduate in Information Technology** from Mumbai, India. I want to take my passion, education, and experience to develop websites, web apps and mobile applications. 
 
-📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. **Self-learning ability** and `passion for my work` are the key factors towards my success.
+ 📌 I've been programming for more than **3** years and have developed my passion towards frontend development. I've developed many full-stack projects focusing on `responsiveness`, `accessibility` and `performance`.
 
+ 📌 My interests are developing cutting-edge real-world projects and learning new technologies. Apart from coding, I love listening to *electronic music* and *playing football*.
 
 📌 My technical skills include :
 
