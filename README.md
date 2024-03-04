@@ -3,7 +3,7 @@
 
 ## <h1>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="35"></h1>
 
- 📌 I'm a `Frontend Engineer` [@Razorpay](https://github.com/razorpay) and a **B.Tech graduate in Information Technology** from Mumbai, India. I want to take my passion, education, and experience to develop websites, web apps and mobile applications. 
+ 📌 I'm currently working as a `Software Engineer - Frontend` [@Salesforce](https://github.com/salesforce) & have worked as a `Frontend Engineer` [@Razopray](https://github.com/razorpay) and a **B.Tech graduate in Information Technology** from Mumbai, India. I want to take my passion, education, and experience to develop websites, web apps and mobile applications. 
 
  📌 I've been programming for more than **3** years and have developed my passion towards frontend development. I've developed many full-stack projects focusing on `responsiveness`, `accessibility` and `performance`.
 
