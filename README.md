@@ -11,6 +11,9 @@
 
 📌 Here's a link to my [Portfolio](https://bit.ly/jaynil-profile)
 
+📌 I'm now offering personalized 1:1 coaching on Topmate for interview prep, resume building, and job search strategies. 
+Check out my profile & book a session 👉 https://topmate.io/jaynilgaglani
+
 📌 Reach out to me: 
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/jaynilgaglani/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/Jaynil_Gaglani)
